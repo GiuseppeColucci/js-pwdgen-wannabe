@@ -6,5 +6,5 @@ var cognome = prompt('il tuo cognome');
 var colore= prompt('quale è il tuo colore preferito');
 
 
-document.getElementById('benvenuto').innerHTML= 'Benvenuto '+ nome + cognome + colore + '19';
+document.getElementById('benvenuto').innerHTML= 'Benvenuto '+ nome + cognome + colore + 19 ;
 
